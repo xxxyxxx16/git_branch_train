@@ -1,2 +1,2 @@
 def master(x):
-    return(x**2)
+    return(-x)
